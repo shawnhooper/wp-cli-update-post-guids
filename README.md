@@ -1,7 +1,7 @@
 # WPML REST API
 
 Contributors: shooper\
-Donate link: [http://shawnhooper.ca/](https://github.com/sponsors/shawnhooper)\
+Donate link: [https://github.com/sponsors/shawnhooper](https://github.com/sponsors/shawnhooper)\
 Requires at least: 5.2\
 Tested up to: 6.4.3 \
 Requires PHP: 7.4\
